@@ -6,11 +6,16 @@
 
 Or `brew tap comatory/tap` and then `brew install <formula>`.
 
-Or, in a `brew bundle` `Brewfile`:
+## Formulae
 
-```ruby
-tap "comatory/tap"
-brew "<formula>"
+### heic-convert
+
+URL: [https://github.com/comatory/heic-convert](https://github.com/comatory/heic-convert)
+
+Install with:
+
+```shell
+brew install comatory/tap/heic-convert
 ```
 
 ## Documentation
