@@ -18,6 +18,18 @@ Install with:
 brew install comatory/tap/heic-convert
 ```
 
+## Casks
+
+### network-device-status
+
+URL: [https://github.com/comatory/network-device-status](https://github.com/comatory/network-device-status)
+
+Install with:
+
+```shell
+brew install --cask comatory/tap/network-device-status
+```
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
